@@ -1,5 +1,0 @@
-
-there is a dataset about 4k houses in tehran with their details
-we should predict the price (in dolor and tomans) with the data 
-
-the data have some errors in dataset.Area
